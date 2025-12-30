@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# Welcome to My Website
-
 Hi! I'm Kaushik Manchella. This is my personal website.
 
 ## About Me
