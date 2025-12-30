@@ -17,5 +17,5 @@ Coming soon - showcase your projects here!
 ## Contact
 
 - Email: your-email@example.com
-- GitHub: [kaushikmanchella](https://github.com/kaushikmanchella)
-- LinkedIn: Add your LinkedIn URL here
+- GitHub: [kmanchel](https://github.com/kmanchel)
+- LinkedIn: [kmanchel](https://www.linkedin.com/in/kmanchel/)
