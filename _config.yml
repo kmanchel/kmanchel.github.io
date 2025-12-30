@@ -6,7 +6,7 @@ baseurl: ""
 url: "https://kmanchel.github.io"
 
 # Build settings
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
