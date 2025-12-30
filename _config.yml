@@ -3,7 +3,7 @@ email: your-email@example.com
 description: >-
   Personal website and portfolio
 baseurl: ""
-url: "https://kaushikmanchella.github.io"
+url: "https://kmanchel.github.io"
 
 # Build settings
 theme: minima
