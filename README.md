@@ -1,6 +1,6 @@
 # Personal Website
 
-This is the source code for my personal website hosted at [kaushikmanchella.github.io](https://kaushikmanchella.github.io).
+This is the source code for my personal website hosted at [kmanchel.github.io](https://kmanchel.github.io).
 
 ## Built With
 
