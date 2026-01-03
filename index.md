@@ -2,17 +2,15 @@
 layout: home
 ---
 
-Hi! I'm Kaushik Manchella. This is my personal website.
+Hey, I'm Kaushik. I'm an AI Engineer focused on infrastructure and deployment. I'm passionate about making AI more accessible and ensuring these technologies benefit everyone, not just a select few.
 
-## About Me
-
-Add your bio here - tell visitors who you are, what you do, and what you're passionate about.
+Outside of work, I love playing and watching football, and spending time in the outdoors.
 
 ## Projects
 
-Coming soon - showcase your projects here!
+Coming soon.
 
-## Contact
+## Connect
 
 - GitHub: [kmanchel](https://github.com/kmanchel)
 - LinkedIn: [kmanchel](https://www.linkedin.com/in/kmanchel/)
